@@ -1,0 +1,6 @@
+Files are for the acrylic antenna and tube mount which will attach to the FED3 housing - intended to be laser cut. 
+Coil approximately 75 revolutions of 36 AWG magnet wire around tube to achieve an inductance of ~580uH.
+Feed antenna wire through right nose-poke port to RFID reader board.
+Make sure the antenna coil will be in close proximity to the animal's RFID tag.
+Use three 2-56 screws and tap base plate to secure all acrylic sections together.
+Press-fit two 6-32 nuts into base plate (make sure they are attracted to magnetic buttons on FED3).

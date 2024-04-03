@@ -1,0 +1,2 @@
+Upload "ClassicFED3_RFID" in the examples folder to the Adafruit Feather M0 Adalogger.
+.cpp and .h files in "src" folder have been modified from the original FED3 code to allow for RFID integration.
