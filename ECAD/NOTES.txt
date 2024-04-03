@@ -1,4 +1,4 @@
-Refer to schematic and photos for build.
+Refer to schematic, photos, and parts list for build.
 In order to fit everything within the housing, short headers (male and female) should be used to limit height.
 A 2mm JST connector can be used to connect the boost converter to the battery output from the Adafruit Feather M0.
 A 2N4401 NPN BJT transistor was used, but a 2N2222 or similar would work just as well; be sure to adjust resistor value as needed.
