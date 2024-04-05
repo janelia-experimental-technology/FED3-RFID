@@ -1,3 +1,3 @@
 Upload "ClassicFED3_RFID.ino" in the examples folder to the Adafruit Feather M0 Adalogger.
 The .cpp and .h files in "src" folder have been modified from the original FED3 code to allow for RFID integration.
-Please note that RFID logging is currently only available on FEMModes 0-3.
+Please note that RFID logging is currently only available on FEDModes 0-3.
